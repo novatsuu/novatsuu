@@ -1,1 +1,1 @@
-# ![Bannière Animée](https://i.pinimg.com/originals/ea/89/cd/ea89cde76133feb479449aabe4919855.gif)
+# ![Bannière Redimensionnée](https://res.cloudinary.com/demo/image/fetch/w_1200,h_300/https://i.pinimg.com/736x/a1/c0/ad/a1c0ad20ba1bae63cab755e107a88804.jpg)
