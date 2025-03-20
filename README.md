@@ -29,3 +29,5 @@
 - **Small developer who sometimes makes some cool projects, I guess lol? 🦧**
 - **New projects coming very soon!**
 #
+updates soon : busy
+im taking a shit
