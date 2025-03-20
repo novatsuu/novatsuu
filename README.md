@@ -1,6 +1,6 @@
 <!-- BY NOVATSU -->
 <div align="center">
-    <img src="pfp.png" alt="header">
+    <img src="pfp.png" alt="header" style="width: 50%;">
 </div>
 <div align="center">
 <a href="https://www.youtube.com/@novatsu">
