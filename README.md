@@ -1,5 +1,8 @@
 <!-- BY NOVATSU -->
 <div align="center">
+    <img src="https://i.pinimg.com/originals/f2/19/69/f21969d79928ebc75e0d60e85ce3e1ab.gif" alt="banner">
+</div>
+<div align="center">
 <a href="https://www.youtube.com/@novatsu">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
