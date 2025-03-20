@@ -23,7 +23,6 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="pythonlogo">
     </a>
 </div>
-<iframe width="2543" height="1116" src="https://www.youtube.com/embed/wUGyZM9rcnY" title="“We Cry Together” - A Short Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 # Im NovaTsu. 👋
