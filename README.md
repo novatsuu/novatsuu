@@ -6,7 +6,6 @@
 
 ---
 
-
 <div align="center">
 <h1>Im NovaTsu. 👋</h1>
 <a href="https://www.youtube.com/@novatsu">
@@ -28,6 +27,8 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="pythonlogo">
     </a>
 </div>
+
+#
 
 
 </div>
