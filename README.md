@@ -2,9 +2,6 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/7b/39/f9/7b39f9d4743befca963cfa2fc38a759f.gif" alt="heaban">
 </a>
-<div align="center">
-    <img src="pfp.png" alt="header" style="width: 25%;">
-</div>
 <p> </p>
 <div align="center">
 <a href="https://www.youtube.com/@novatsu">
