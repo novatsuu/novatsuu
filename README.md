@@ -28,6 +28,7 @@
 
 ---
 # Im NovaTsu. 👋
+</div>
 - **Small developer who sometimes makes some cool projects, I guess lol? 🦧**
 - **New projects coming very soon!**
 #
