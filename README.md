@@ -5,9 +5,10 @@
 </a>
 
 ---
-# Im NovaTsu. 👋
+
 
 <div align="center">
+<h1>Im NovaTsu. 👋</h1>
 <a href="https://www.youtube.com/@novatsu">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
