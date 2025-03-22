@@ -1,6 +1,6 @@
 <!-- BY NOVATSU -->
 <div align="center">
-    <img src="https://i.pinimg.com/originals/7b/39/f9/7b39f9d4743befca963cfa2fc38a759f.gif" alt="heaban">
+    <img src="https://i.pinimg.com/736x/02/59/06/0259061329fd9a2b7bcbf9388744043f.jpg" alt="heaban">
 </a>
 <p> </p>
 <div align="center">
