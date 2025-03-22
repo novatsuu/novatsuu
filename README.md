@@ -30,5 +30,3 @@
 - **New projects coming very soon!**
 #
 updates soon : lazy
-
-im taking a shit
